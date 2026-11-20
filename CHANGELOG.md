@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-18)
+## Unreleased (2026-11-20)
 
 <section class="features">
 
 ### Features
 
+-   [`c5f6d45`](https://github.com/stdlib-js/stdlib/commit/c5f6d451890ca632686fb23b9407ce47c0f7b497) - add `keys` method to `array/int64` [(#16694)](https://github.com/stdlib-js/stdlib/pull/16694)
 -   [`fbd295d`](https://github.com/stdlib-js/stdlib/commit/fbd295d6db373d05bd5c9462ed57ee4b716a3b6f) - add `findLastIndex` method to `array/int64` [(#16688)](https://github.com/stdlib-js/stdlib/pull/16688)
 -   [`1435afa`](https://github.com/stdlib-js/stdlib/commit/1435afaf064f7cc491a0dde896ab7c9f41f27652) - add various methods to `array/int64` [(#16684)](https://github.com/stdlib-js/stdlib/pull/16684)
 -   [`30dd612`](https://github.com/stdlib-js/stdlib/commit/30dd6120c99b444564ff3cfdb370b327765d1205) - add `array/int64` [(#14188)](https://github.com/stdlib-js/stdlib/pull/14188)
@@ -24,6 +25,7 @@
 
 <details>
 
+-   [`c5f6d45`](https://github.com/stdlib-js/stdlib/commit/c5f6d451890ca632686fb23b9407ce47c0f7b497) - **feat:** add `keys` method to `array/int64` [(#16694)](https://github.com/stdlib-js/stdlib/pull/16694) _(by Kartik, Athan Reines)_
 -   [`fbd295d`](https://github.com/stdlib-js/stdlib/commit/fbd295d6db373d05bd5c9462ed57ee4b716a3b6f) - **feat:** add `findLastIndex` method to `array/int64` [(#16688)](https://github.com/stdlib-js/stdlib/pull/16688) _(by Divit Jain)_
 -   [`1435afa`](https://github.com/stdlib-js/stdlib/commit/1435afaf064f7cc491a0dde896ab7c9f41f27652) - **feat:** add various methods to `array/int64` [(#16684)](https://github.com/stdlib-js/stdlib/pull/16684) _(by Divit Jain)_
 -   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
@@ -40,10 +42,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divit Jain
+-   Kartik
 -   Nakul Krishnakumar
 -   Philipp Burckhardt
 
